@@ -1,0 +1,2 @@
+# programa-bingo
+nose
